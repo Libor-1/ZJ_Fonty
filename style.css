@@ -1,0 +1,29 @@
+@font-face {
+    font-family: pacifico;
+    src: url('pacifico/Pacifico-Regular.ttf');
+}
+
+* {
+    font-family: pacifico;
+    font-style: italic;
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+    color: blueviolet;
+    border: 2px dotted red;
+    
+}
+
+main {
+border: 2px dotted greenyellow;
+}
+
+aside {
+    color: red;
+    border: 2px dotted palevioletred;
+    margin-top: 20px;
+}
+
+
